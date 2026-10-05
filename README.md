@@ -1,4 +1,4 @@
-# GAME_PROGRAM-EXP-6
+# GAME PROGRAM-EXP:6
 
 ## AI Random Roam with Chase - Unreal Engine
 ## Aim:
